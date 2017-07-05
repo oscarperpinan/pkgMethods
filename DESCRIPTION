@@ -1,0 +1,9 @@
+Package: pkgMethods
+Type: Package
+Title: Package with Methods
+Version: 1.0
+Date: 2017-07-05
+Author: Oscar Perpinan Lamigueiro
+Maintainer: Oscar Perpinan Lamigueiro <oscar.perpinan@upm.es>
+Description: Package with Methods
+License: GPL
