@@ -1,2 +1,4 @@
+imports("methods")
+
 exportClasses("task", "ToDo")
 exportMethods("print")
