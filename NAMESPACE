@@ -1,3 +1,2 @@
 exportClasses("task", "ToDo")
-exportMethods("print", "task")
-exportMethods("print", "ToDo")
+exportMethods("print")
