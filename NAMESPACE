@@ -1,4 +1,8 @@
-imports("methods")
+import("methods")
 
+export("createTask", 
+       "createToDo",
+       "addTask")
+       
 exportClasses("task", "ToDo")
 exportMethods("print")
