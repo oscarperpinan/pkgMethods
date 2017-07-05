@@ -1,0 +1,2 @@
+# pkgMethods
+Package including methods
